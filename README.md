@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, front end development, and possibly cybersecurity.
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on beginner coding projects
-- 📫 How to reach me on Github
+- 📫 How to reach me : On Github, or Instagram @7Breyown
 
 <!---
 Westna/Westna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
